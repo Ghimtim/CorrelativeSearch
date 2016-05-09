@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">关联搜索工具</string>
+    <string name="action_settings">Settings</string>
+    <string name="icon_search">&#xe607;</string>
+    <string name="icon_clear">&#xe610;</string>
+    <string name="icon_app">&#xe601;</string>
+    <string name="icon_calendar">&#xe726;</string>
+    <string name="icon_text">&#xe6bd;</string>
+    <string name="icon_email">&#xe655;</string>
+    <string name="icon_message">&#xe62e;</string>
+    <string name="icon_phone">&#xe602;</string>
+    <string name="icon_web">&#xe639;</string>
+    <string name="icon_music">&#xe61a;</string>
+</resources>

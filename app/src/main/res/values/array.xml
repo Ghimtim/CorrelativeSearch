@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type_name">
+        <item>ALL</item>
+        <item>application/pdf</item>
+        <item>application/msword</item>
+        <item>application/vnd.ms-excel</item>
+        <item>application/vnd.ms-powerpoint</item>
+        <item>application/app</item>
+        <item>text/html</item>
+        <item>audio/mpeg</item>
+        <item>application/sms</item>
+        <item>application/call</item>
+        <item>application/calendar</item>
+        <item>application/email</item>
+
+    </string-array>
+
+</resources>
